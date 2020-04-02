@@ -1,0 +1,1 @@
+insert into clientes (nombre,apellido,email) VALUES('luis','reyes','luisjavier_iza@hotmail.com')
